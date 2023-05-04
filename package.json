@@ -1,5 +1,5 @@
 {
-  "name": "webpack-react-startup",
+  "name": "react-webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "MWQ",
   "license": "ISC",
   "dependencies": {
     "react": "^18.2.0",
